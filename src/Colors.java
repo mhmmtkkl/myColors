@@ -2,6 +2,7 @@ package src;
 
 
 import java.util.ArrayList;
+//comment
 
 public class Colors {
 	private ArrayList<String> colorsList = new ArrayList<String>();
