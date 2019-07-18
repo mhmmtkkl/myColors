@@ -207,7 +207,7 @@ public class PublicTests {
 		int expected = 1;
 		int result = colors.getColorCount("white");
 		assertEquals(expected, result);	
-	}
+	} 
 	
 	@Test
 	public void testRemoveDuplicates2() {
