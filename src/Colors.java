@@ -12,7 +12,7 @@ public class Colors {
 		if(colors!= null)
 		this.colorsList = colors;
 	}
- 
+  
 	public ArrayList<String> getColorsList() {
 		return colorsList;
 	}
