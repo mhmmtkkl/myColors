@@ -115,7 +115,7 @@ public class PublicTests {
 		expected.add("Orange");	
 		assertEquals(expected, result);	
 	}
-	
+	 
 	@Test
 	public void testchangeSecondToOrange2() {
 		Colors colors = new Colors(null);
